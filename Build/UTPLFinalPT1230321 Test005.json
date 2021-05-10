@@ -1,0 +1,17 @@
+{
+"companyName": "DTE",
+"productName": "CampusUtpl",
+"productVersion": "1.0",
+"dataUrl": "UTPLFinalPT1230321 Test005.data.unityweb",
+"wasmCodeUrl": "UTPLFinalPT1230321 Test005.wasm.code.unityweb",
+"wasmFrameworkUrl": "UTPLFinalPT1230321 Test005.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "UTPLFinalPT1230321 Test005.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
